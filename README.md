@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @yixuanevewang, Eve Wang
-- 📚 I’m currently enrolled in a Computer Science and Biology joint major at McGill Univeristy 
-- 🌱 Open to learning new concepts
+- 👋 Hello! I’m @yixuanevewang, Eve Wang
+- 📚 Currently enrolled in a Computer Science and Biology joint major at McGill Univeristy 
 
 <!---
 yixuanevewang/yixuanevewang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
